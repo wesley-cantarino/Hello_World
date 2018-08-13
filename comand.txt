@@ -5,7 +5,7 @@ $ git commit
 $ git push
 $ git pull
 $ git clone
-
+git 
 adding an existing project to github
 1 = create new repository
 2 = open git bash
