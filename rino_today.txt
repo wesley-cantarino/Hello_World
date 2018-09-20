@@ -1,0 +1,22 @@
+1º dia 19/09
+	SPL 	é programação de alto nível com muito machine learn, deep learn entre outras coisas de apredizagem de máquina.
+		<nota pessoal>Sinceramente não tem como partindo do meu nível de conhecimento atual e chegar proximo ao nível deles
+	   	ainda esse ano então ... ainda bem que eu não sou desse segmento :D kkk </nota Pessoal>
+	VSSS    não cheguei a olhar de perto mas parece que tem o mesmo "problema" do SPL.
+	
+	Follow line é interresante (digamos até que uma segunda opção?? talvez). contém componentes que eu já conheço como 
+		por exemplo arduino, ponte H e sensor IR. apresenta um grande dessafio entre o equilibrio velocidade e curva pois 
+		se chegar na curva com muita velocidade as rodas vão começar a escorregar e muito provavel que o motor perca a linha
+		e se isso acontecer já era (muito provavel) além claro de saber onde parar! seja pela contagem do tempo (oque pode
+		variar muito) ou pela comtagem de faixas brancas cruzadas.
+	
+	sumo 
+			lego o grande dessafio aqui é montagem pois é muito fácil extrapolar o quadrado máximo. do meu ponto de vista 
+		atual, a categoria não seria interresante quando se compara com mini sumo mas tem um ponto forme muito importante!
+		sumo lego é altamente didadico e excelente para se demostrar em uma palestra e/ou evento.
+			mini é atualmente o grande objetivo pois apresenta uma linguagem de programação em que eu já estou familiarizado
+		e utilizão componentes que eu já conhece como ponte h, ESP32 <3 e sensor sharp IR. é uma oportunidade muito interresante
+		de poder trabalhar com esp32. sobre o projeto final a ideia que tenho hj é de montar uma animação (3d talvez) para
+		poder testar os sensores. primeiramente por cabo e depois por wifi(obs: fiquei sabendo que em alguns casos o wifi 
+		esta falhando devido a procedencia do esp32).
+		
