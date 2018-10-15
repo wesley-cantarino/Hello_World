@@ -9,3 +9,6 @@ hi(x2)
 9
 0
 asd
+
+https://explainshell.com/ :D
+https://github.com/robertoachar/Aprenda-Markdown
