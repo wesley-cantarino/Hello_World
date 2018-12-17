@@ -16,4 +16,4 @@
 6 = At the top of your GitHub repository's Quick Setup page, click  to copy the remote repository URL. <br>
 7 = $ git remote add origin <remote repository URL><br>
 8 = $ git remote -v<br>
-9 = git push origin master<br>
+9 = $ git push origin master<br>
