@@ -19,3 +19,5 @@ git adding an existing project to github
 7 = $ git remote add origin <remote repository URL>
 8 = $ git remote -v
 9 = git push origin master
+
+//line test*/
